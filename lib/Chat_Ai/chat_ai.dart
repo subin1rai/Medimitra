@@ -1,5 +1,4 @@
 import 'dart:convert';
-
 import 'package:dash_chat_2/dash_chat_2.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
@@ -60,6 +59,11 @@ class _ChatAi_PageState extends State<ChatAi_Page> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      appBar: AppBar(
+        title: Text("AI doctor", style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold, color:Colors.black) ,),
+        backgroundColor: const Color.fromARGB(255, 153, 229, 155),
+        centerTitle: true,
+      ),
       body: DashChat(
           typingUsers: typing,
           currentUser: myself,
