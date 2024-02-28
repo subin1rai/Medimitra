@@ -42,10 +42,6 @@ characters
 2.12
 file:///C:/Users/Subi/AppData/Local/Pub/Cache/hosted/pub.dev/characters-1.3.0/
 file:///C:/Users/Subi/AppData/Local/Pub/Cache/hosted/pub.dev/characters-1.3.0/lib/
-chat_gpt_sdk
-3.0
-file:///C:/Users/Subi/AppData/Local/Pub/Cache/hosted/pub.dev/chat_gpt_sdk-2.2.4/
-file:///C:/Users/Subi/AppData/Local/Pub/Cache/hosted/pub.dev/chat_gpt_sdk-2.2.4/lib/
 clock
 2.12
 file:///C:/Users/Subi/AppData/Local/Pub/Cache/hosted/pub.dev/clock-1.1.1/
@@ -70,10 +66,6 @@ dash_chat_2
 2.12
 file:///C:/Users/Subi/AppData/Local/Pub/Cache/hosted/pub.dev/dash_chat_2-0.0.20/
 file:///C:/Users/Subi/AppData/Local/Pub/Cache/hosted/pub.dev/dash_chat_2-0.0.20/lib/
-dio
-2.15
-file:///C:/Users/Subi/AppData/Local/Pub/Cache/hosted/pub.dev/dio-5.4.1/
-file:///C:/Users/Subi/AppData/Local/Pub/Cache/hosted/pub.dev/dio-5.4.1/lib/
 fake_async
 2.12
 file:///C:/Users/Subi/AppData/Local/Pub/Cache/hosted/pub.dev/fake_async-1.3.1/
@@ -102,6 +94,10 @@ flutter_parsed_text
 2.12
 file:///C:/Users/Subi/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_parsed_text-2.2.1/
 file:///C:/Users/Subi/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_parsed_text-2.2.1/lib/
+google_fonts
+2.14
+file:///C:/Users/Subi/AppData/Local/Pub/Cache/hosted/pub.dev/google_fonts-6.1.0/
+file:///C:/Users/Subi/AppData/Local/Pub/Cache/hosted/pub.dev/google_fonts-6.1.0/lib/
 html
 2.19
 file:///C:/Users/Subi/AppData/Local/Pub/Cache/hosted/pub.dev/html-0.15.4/

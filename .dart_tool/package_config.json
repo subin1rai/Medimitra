@@ -44,12 +44,6 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "chat_gpt_sdk",
-      "rootUri": "file:///C:/Users/Subi/AppData/Local/Pub/Cache/hosted/pub.dev/chat_gpt_sdk-2.2.4",
-      "packageUri": "lib/",
-      "languageVersion": "3.0"
-    },
-    {
       "name": "clock",
       "rootUri": "file:///C:/Users/Subi/AppData/Local/Pub/Cache/hosted/pub.dev/clock-1.1.1",
       "packageUri": "lib/",
@@ -84,12 +78,6 @@
       "rootUri": "file:///C:/Users/Subi/AppData/Local/Pub/Cache/hosted/pub.dev/dash_chat_2-0.0.20",
       "packageUri": "lib/",
       "languageVersion": "2.12"
-    },
-    {
-      "name": "dio",
-      "rootUri": "file:///C:/Users/Subi/AppData/Local/Pub/Cache/hosted/pub.dev/dio-5.4.1",
-      "packageUri": "lib/",
-      "languageVersion": "2.15"
     },
     {
       "name": "fake_async",
@@ -150,6 +138,12 @@
       "rootUri": "file:///C:/Software/flutter/packages/flutter_web_plugins",
       "packageUri": "lib/",
       "languageVersion": "3.0"
+    },
+    {
+      "name": "google_fonts",
+      "rootUri": "file:///C:/Users/Subi/AppData/Local/Pub/Cache/hosted/pub.dev/google_fonts-6.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
     },
     {
       "name": "html",
@@ -458,7 +452,7 @@
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2024-02-26T15:29:29.936101Z",
+  "generated": "2024-02-28T02:47:24.122807Z",
   "generator": "pub",
   "generatorVersion": "3.0.6"
 }
